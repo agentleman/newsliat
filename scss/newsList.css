@@ -13,7 +13,7 @@ body {
   .head_news .head_h {
     width: 100%;
     height: 100%;
-    font-size: 18px;
+    font-size: 20px;
     padding: 15px 0px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -22,7 +22,7 @@ body {
 .date_name {
   width: 100%;
   height: 20px;
-  font-size: 12px; }
+  font-size: 14px; }
   .date_name .date_words {
     color: lightblue; }
 
